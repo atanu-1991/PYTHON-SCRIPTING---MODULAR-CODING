@@ -3,7 +3,6 @@ import os
 import joblib
 
 
-
 class Perceptron:
 
   def __init__(self, eta:float=None, epochs:int=None):
